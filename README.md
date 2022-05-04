@@ -1,4 +1,4 @@
-### Olá, eu sou Marcello Menezes, atualmente estou estudando Desenvolvimento de Software na [Cubos Academy](https://cubos.academy/)!📚📝
+### Olá, eu sou Marcello Menezes, atualmente estou estudando Desenvolvimento de Software na [Cubos Academy](https://cubos.academy/) e Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)!📚📝
 
 ---
 
@@ -15,9 +15,9 @@
   <img align="center" alt="Marcello-Node" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Marcelo-React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Marcelo-Postgres" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="Marcelo-MySQL" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelloaugustom/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcelinho.menezes.1)
